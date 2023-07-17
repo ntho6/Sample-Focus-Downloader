@@ -2,6 +2,15 @@
 
 Download from samplefocus.com
 
+## Requirements
+
+- beautifulsoup4
+
+To install it type in the terminal:
+   ```shell
+   pip install bs4
+   ```
+
 ## How to Use
 
 1. Run the script using:
