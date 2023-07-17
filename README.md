@@ -6,7 +6,7 @@ Download from samplefocus.com
 
 - beautifulsoup4
 
-To install it type in the terminal:
+To install it, type the following command in the terminal:
    ```shell
    pip install bs4
    ```
